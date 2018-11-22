@@ -1,0 +1,6 @@
+numpy
+pandas
+xlrd
+pyarrow
+datefinder
+fastparquet
